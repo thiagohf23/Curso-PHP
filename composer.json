@@ -1,0 +1,22 @@
+{
+    "name": "thiago/routes-php00",
+    "authors": [
+        {
+            "name": "thiagohf23",
+            "email": "thiiagoft25@gmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5",
+        "symfony/var-dumper": "^7.1"
+    },
+    "autoload":{
+        "psr-4":{
+            "app\\":"app"
+        },
+        "files":[
+            
+        ]
+        
+    }
+}
